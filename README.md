@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Priyanshu24-max/Leetcode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Priyanshu24-max/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priyanshu24-max/Leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Priyanshu24-max/Leetcode/tree/master/0520-detect-capital) |
 ## Dynamic Programming
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Priyanshu24-max/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
