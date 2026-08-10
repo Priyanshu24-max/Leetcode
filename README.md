@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Priyanshu24-max/Leetcode/tree/master/0066-plus-one) |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
 ## Brainteaser
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
 ## Impartial Game
 |  |
 | ------- |
@@ -75,4 +78,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
