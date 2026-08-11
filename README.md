@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Priyanshu24-max/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Priyanshu24-max/Leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Priyanshu24-max/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priyanshu24-max/Leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Priyanshu24-max/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priyanshu24-max/Leetcode/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Priyanshu24-max/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
