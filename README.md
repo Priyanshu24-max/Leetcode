@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Priyanshu24-max/Leetcode/tree/master/0066-plus-one) |
+| [0292-nim-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sorting
@@ -52,15 +53,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
 ## Simulation
 |  |
@@ -95,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
