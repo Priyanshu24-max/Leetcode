@@ -1,15 +1,20 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        original=nums.copy()
-        size1=len(nums)
-        nums.clear()
+        i=0
+        j=1
 
-        for x in original:
-            if (x!=0):
-                nums.append(x)
-        size2=len(nums)
+        while(i<len(nums) and j<len(nums)):
+            if(nums[i]==0 and nums[j]!=0):
+                nums[i],nums[j]=nums[j],nums[i]
+                i+=1
+                j+=1
 
-        for x in range(0,size1-size2):
-            nums.append(0)
+            elif(nums[i]!=0):
+                i+=1
+                j+=1
+                
+            else:
+                j+=1
+
         
         
