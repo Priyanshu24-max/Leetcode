@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Priyanshu24-max/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Priyanshu24-max/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu24-max/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Priyanshu24-max/Leetcode/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Priyanshu24-max/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Priyanshu24-max/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu24-max/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priyanshu24-max/Leetcode/tree/master/0242-valid-anagram) |
@@ -153,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Priyanshu24-max/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Priyanshu24-max/Leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Priyanshu24-max/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
