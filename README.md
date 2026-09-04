@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
+| [3099-harshad-number](https://github.com/Priyanshu24-max/Leetcode/tree/master/3099-harshad-number) |
 ## Sorting
 |  |
 | ------- |
