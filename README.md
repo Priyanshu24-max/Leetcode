@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Priyanshu24-max/Leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Priyanshu24-max/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Priyanshu24-max/Leetcode/tree/master/0796-rotate-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Priyanshu24-max/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Priyanshu24-max/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/Priyanshu24-max/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Priyanshu24-max/Leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Priyanshu24-max/Leetcode/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Ternary Search
 |  |
 | ------- |
