@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Priyanshu24-max/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Priyanshu24-max/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu24-max/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Priyanshu24-max/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0912-sort-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Priyanshu24-max/Leetcode/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu24-max/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
 | [3099-harshad-number](https://github.com/Priyanshu24-max/Leetcode/tree/master/3099-harshad-number) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Priyanshu24-max/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Priyanshu24-max/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu24-max/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Priyanshu24-max/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
