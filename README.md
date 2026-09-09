@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2540-minimum-common-value](https://github.com/Priyanshu24-max/Leetcode/tree/master/2540-minimum-common-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priyanshu24-max/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Priyanshu24-max/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Priyanshu24-max/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2540-minimum-common-value](https://github.com/Priyanshu24-max/Leetcode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Priyanshu24-max/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2540-minimum-common-value](https://github.com/Priyanshu24-max/Leetcode/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Priyanshu24-max/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanshu24-max/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/Priyanshu24-max/Leetcode/tree/master/2540-minimum-common-value) |
 ## String Matching
 |  |
 | ------- |
