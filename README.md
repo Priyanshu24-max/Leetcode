@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu24-max/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
+| [2235-add-two-integers](https://github.com/Priyanshu24-max/Leetcode/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/Priyanshu24-max/Leetcode/tree/master/3099-harshad-number) |
 | [3870-count-commas-in-range](https://github.com/Priyanshu24-max/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Sorting
