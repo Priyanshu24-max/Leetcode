@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Priyanshu24-max/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Priyanshu24-max/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Priyanshu24-max/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priyanshu24-max/Leetcode/tree/master/0344-reverse-string) |
@@ -229,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanshu24-max/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Priyanshu24-max/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Priyanshu24-max/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
