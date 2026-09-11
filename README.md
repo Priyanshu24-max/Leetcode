@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priyanshu24-max/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Priyanshu24-max/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Priyanshu24-max/Leetcode/tree/master/2540-minimum-common-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priyanshu24-max/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshu24-max/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Priyanshu24-max/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyanshu24-max/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Priyanshu24-max/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Priyanshu24-max/Leetcode/tree/master/2540-minimum-common-value) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyanshu24-max/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanshu24-max/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshu24-max/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Priyanshu24-max/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3978-unique-middle-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/3978-unique-middle-element) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Priyanshu24-max/Leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Priyanshu24-max/Leetcode/tree/master/0389-find-the-difference) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Priyanshu24-max/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Ternary Search
 |  |
