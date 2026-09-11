@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priyanshu24-max/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Priyanshu24-max/Leetcode/tree/master/2540-minimum-common-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Priyanshu24-max/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Priyanshu24-max/Leetcode/tree/master/3731-find-missing-elements) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Priyanshu24-max/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Priyanshu24-max/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Priyanshu24-max/Leetcode/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Priyanshu24-max/Leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyanshu24-max/Leetcode/tree/master/0229-majority-element-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3978-unique-middle-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
