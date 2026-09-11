@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Priyanshu24-max/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Priyanshu24-max/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Priyanshu24-max/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Priyanshu24-max/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Priyanshu24-max/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Priyanshu24-max/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Priyanshu24-max/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Priyanshu24-max/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Priyanshu24-max/Leetcode/tree/master/0414-third-maximum-number) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyanshu24-max/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Priyanshu24-max/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Priyanshu24-max/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Priyanshu24-max/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -162,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Priyanshu24-max/Leetcode/tree/master/0229-majority-element-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3978-unique-middle-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu24-max/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Priyanshu24-max/Leetcode/tree/master/0229-majority-element-ii) |
 ## Minimax
 |  |
 | ------- |
