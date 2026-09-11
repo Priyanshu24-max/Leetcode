@@ -12,7 +12,4 @@ class Solution:
             if value%2!=0: #if the frequence of value is not even then it cannot form a pair
                 return False
         return True
-                
-
-
-        
+                        
