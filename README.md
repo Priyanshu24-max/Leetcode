@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Priyanshu24-max/Leetcode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Priyanshu24-max/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Priyanshu24-max/Leetcode/tree/master/0796-rotate-string) |
+| [1108-defanging-an-ip-address](https://github.com/Priyanshu24-max/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24-max/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
