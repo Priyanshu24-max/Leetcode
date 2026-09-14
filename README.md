@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Priyanshu24-max/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priyanshu24-max/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
 | [1952-three-divisors](https://github.com/Priyanshu24-max/Leetcode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Priyanshu24-max/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Priyanshu24-max/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Priyanshu24-max/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Priyanshu24-max/Leetcode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Priyanshu24-max/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Queue
 |  |
@@ -322,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Priyanshu24-max/Leetcode/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanshu24-max/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
