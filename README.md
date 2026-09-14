@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu24-max/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Priyanshu24-max/Leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Priyanshu24-max/Leetcode/tree/master/1510-stone-game-iv) |
+| [1952-three-divisors](https://github.com/Priyanshu24-max/Leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Priyanshu24-max/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Priyanshu24-max/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Priyanshu24-max/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -303,9 +304,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Priyanshu24-max/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Priyanshu24-max/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanshu24-max/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Priyanshu24-max/Leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Priyanshu24-max/Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Priyanshu24-max/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
