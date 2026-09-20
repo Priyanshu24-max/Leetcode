@@ -1,14 +1,11 @@
 class Solution:
     def reverseDegree(self, s: str) -> int:
-        s=list(s)
-        lower_alpha=[chr(x) for x in range(ord('a'),ord('z')+1)] #to store all alphabet in lowercase
-        lower_alpha=sorted(lower_alpha,reverse=True) #reverse the array
+        total=0
+        postion=1
 
-        sums=[] #store the product of Index in String and Index in Reversed Alphabet
-        i=1
-        
         for x in s:
-            if x in lower_alpha:
-                sums.append(i*(lower_alpha.index(x)+1))
-                i+=1
-        return sum(sums)      
+            if 'a'<=x<='z':
+                reverse_deg=ord('z')-ord(x)+1 #eg:- ord(z)=122 and ord(a)=97 so 122-97+1=26
+                total+=postion*reverse_deg
+                postion+=1
+        return total
